@@ -26,5 +26,5 @@ jobs:
       
       - name: Run Python Script
         env:
-          USER_NAME: "Andrii DevOps" 
+          USER_NAME: "Andrii " 
         run: python main.py
